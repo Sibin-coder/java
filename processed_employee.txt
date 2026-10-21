@@ -1,0 +1,5 @@
+Name                   Basic Salary            HRA             DA   Total Salary
+Sibin                      250000.0        50000.0        25000.0       325000.0
+Guru                       150000.0        30000.0        15000.0       195000.0
+
+Employee with the highest total salary: Sibin

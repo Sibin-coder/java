@@ -1,0 +1,5 @@
+hi i am sibin
+hi i am sibin
+Number of lines: 2
+Number of words: 8
+Number of characters: 20

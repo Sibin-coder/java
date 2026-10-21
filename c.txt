@@ -1,0 +1,4 @@
+Number of lines: 2
+Number of words: 8
+Number of characters: 20
+Number of vowels: 10
